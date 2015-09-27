@@ -67,7 +67,7 @@ train participant ids are as follows: 1,3,5,6,7,8,11,14,15,16,17,19,21,22,23,25,
 6. Extracts variables only on mean and standard deviation measurements.
 7. Creates the Mean_Std dataset with subjectid, activityname and all mean and std variables.
 8. Groups the above dataset by subjectid and activityname.
-9. Uses summarize_each funciton, summarize each column to extract average (mean) values of all columns. This is the final **tidy dataset**.
+9. Uses summarize_each funciton, to summarize each column to extract average (mean) values of data. This is the final **tidy dataset**.
   
 
 
