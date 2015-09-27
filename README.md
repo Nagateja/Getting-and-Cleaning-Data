@@ -15,3 +15,6 @@ This repository contains the script (only one script) for run_analysi.R, a codeb
 
 ####averages.txt
 It is the final output file per Q5 contaning the average of each variable for each activity and each subject.
+
+####Codebook.md
+A code book describing all the variables and actions taken on the data
